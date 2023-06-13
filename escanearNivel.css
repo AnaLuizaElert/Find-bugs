@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Jujutsu;
+    src: url(./fonts/Jujutsu.ttf);
+}
+
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8rem;
+    font-family: Jujutsu;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
