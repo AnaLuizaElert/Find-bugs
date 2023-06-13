@@ -1,7 +1,8 @@
 # Documento auxiliar para encontrar os bugs 
 
 <h1>Itens auxiliar para escanear</h1>
-<img src="https://github.com/AnaLuizaElert/Find-bugs/assets/107824361/bec9ca6a-dffd-4284-9a14-dfa0b40064f8">
+<a href="https://find-bugs.vercel.app">Link para o vercel</a>
+<img src="https://github.com/AnaLuizaElert/Find-bugs/assets/107824361/174b2413-f916-4715-8a5c-27547acaeb36">
 
 <h1>Regra de negócio:</h1>
 A página de pontuação deverá atualizar automaticamente a pontuação dos níveis que o jogador tiver jogado, caso o jogador perca um nível a pontuação deverá permanecer a anterior.
