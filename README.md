@@ -1,6 +1,6 @@
 # Documento auxiliar para encontrar os bugs 
 
-<h1>Itens auxiliar para escanear</h1>
+<h1>Item auxiliar para escanear</h1>
 <br>
 <p align="center">
   <a href="https://find-bugs.vercel.app">Link para o vercel</a>
